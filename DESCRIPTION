@@ -1,0 +1,9 @@
+Package: despack
+Title: Helpers for CKMR design
+Version: 1.0.11
+Author: Mark Bravington
+Description: Help to compute expected Hessian given a design (ie sample sizes) and your CKMR model
+Imports: utils, mvbutils, offarray
+Suggests: TMBO
+Maintainer: Mark Bravington <markb2@summerinsouth.net>
+License: GPL-3

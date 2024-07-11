@@ -1,0 +1,7 @@
+export( "CK_logalike_funs",
+"finfo_onetype",
+"get_Hbits")
+import( utils, except=c("help","?"))
+import( mvbutils)
+import( offarray)
+

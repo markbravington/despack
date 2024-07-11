@@ -1,0 +1,4 @@
+despack-package                     How to use the despack package
+CK_logalike_funs                    Make wrappers for TMB(O) functions
+finfo_onetype                       Expected Fisher Info from all CK comparisons of given type
+get_Hbits                           Preparation for CK design Hessian calculation
